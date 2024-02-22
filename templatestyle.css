@@ -1,0 +1,56 @@
+.main{
+    transform: translateX(500px);
+}
+h3,p{
+    text-align: center;
+}
+body{
+    background-color: rgb(166, 255, 0);
+}
+.rahul{
+    display: inline-block;
+    box-shadow: 5px 5px 8px black;
+    transform: all 2s ease 0s;
+    width: 200px;
+    height: 250px;
+    border-radius: 8px; 
+    background-color: white;
+}
+.rahul:hover{
+    box-shadow: 15px 15px 20px black;
+    /* box-shadow: -10px; */
+    transform: scale3d(0.2);
+}
+.neha{
+    display: inline-block;
+    box-shadow: 5px 5px 8px black;
+    transform: all 2s ease 0s;
+    width: 200px;
+    height: 250px;
+    margin-left: 15px;
+    border-radius: 8px;
+    background-color: white;
+}
+.neha:hover{
+    box-shadow: -10px;
+    box-shadow: 15px 15px 20px black;
+    transform: scale3d(0.2);
+    
+}
+.imgone{
+    width: 200px;
+    height: 150px;
+    background-image: url(IMG-20220101-WA0052.jpg);
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    
+}
+.imgtwo{
+    width: 200px;
+    height: 150px;
+    background-image: url(Untitled.png);
+    background-size: cover;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
