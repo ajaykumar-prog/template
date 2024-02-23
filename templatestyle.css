@@ -40,7 +40,7 @@ body{
 .imgone{
     width: 200px;
     height: 150px;
-    background-image: url(IMG-20220101-WA0052.jpg);
+    background-image: url(dog.jpg);
     background-size: cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
@@ -49,7 +49,7 @@ body{
 .imgtwo{
     width: 200px;
     height: 150px;
-    background-image: url(Untitled.png);
+    background-image: url(cat.jpg);
     background-size: cover;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
